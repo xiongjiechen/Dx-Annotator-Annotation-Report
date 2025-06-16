@@ -100,27 +100,26 @@ Below is a list of annotation types and the number of annotations we have collec
 
 |Annotation type| Abbreviation| Number of annotations of the type|
 |:-:|:-:|:-:|
-| Bone Loss (Stage 1: <15%)                          | BL-1       | 2518 |
-| Bone Loss (Stage 2: Coronal Third)                 | BL-2       | 2889 |
-| Bone Loss (Stage 3: Mid Third)                     | BL-3       | 711  |
-| Bone Loss (Stage 4: Apical Third)                  | BL-4       | 164  |
-| Calculus                                           | Cal        | 1172 |
-| Dental Caries (Grade 1: Outer Enamel)              | DC-1       | 142  |
-| Dental Caries (Grade 2: Inner Enamel)              | DC-2       | 146  |
-| Dental Caries (Grade 3: Outer Dentin)              | DC-3       | 578  |
-| Dental Caries (Grade 4: Middle Dentin)             | DC-4       | 279  |
-| Dental Caries (Grade 5: Inner Dentin)              | DC-5       | 373  |
-| External Resorption                                | ER         | 23   |
-| Healthy                                            | Healthy    | 165  |
-| Internal Resorption                                | IR         | 1    |
-| Missing Coronal Restoration                        | MCR        | 112  |
-| Open Margin                                        | OM         | 399  |
-| Other                                              | Other      | 298  |
-| Overhang                                           | OH         | 580  |
-| Periapical Radiolucency                            | PR         | 322  |
-| Remaining Root                                     | RR         | 120  |
-| Restoration Radiolucency (Adhesive/Liner)          | RR (A/L)   | 107  |
-| Unsure                                             | Unsure     | 208  |
+| Bone Loss Stage 1: <15%                            | BL-1       | 270  |
+| Bone Loss Stage 2: Coronal Third                   | BL-2       | 466  |
+| Bone Loss Stage 3: Mid Third                       | BL-3       | 148  |
+| Bone Loss Stage 4: Apical Third                    | BL-4       | 29   |
+| Calculus                                           | Cal        | 247  |
+| Dental Caries Grade 1: Outer Enamel                | DC-1       | 57   |
+| Dental Caries Grade 2: Inner Enamel                | DC-2       | 42   |
+| Dental Caries Grade 3: Outer Dentin                | DC-3       | 123  |
+| Dental Caries Grade 4: Middle Dentin               | DC-4       | 84   |
+| Dental Caries Grade 5: Inner Dentin                | DC-5       | 146  |
+| External Resorption                                | ER         | 17   |
+| Healthy                                            | Healthy    | 55   |
+| Missing Coronal Restoration                        | MCR        | 7    |
+| Open Margin                                        | OM         | 35   |
+| Other                                              | Other      | 17   |
+| Overhang                                           | OH         | 67   |
+| Periapical Radiolucency                            | PR         | 52   |
+| Remaining Root                                     | RR         | 7    |
+| Restoration Radiolucency Adhesive/Liner            | RR (A/L)   | 15   |
+| Unsure                                             | Unsure     | 8    |
 
 A bar chart showing the number of annotated objects in each annotation type can be found below:
 <h3 style="text-align: center;" markdown="1">Figure 10. The number of annotations for each annotation type.</h3>
