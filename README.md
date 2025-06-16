@@ -1,11 +1,11 @@
 
 
 
-# DR CAPS Annotation Report - 4th Round - re-annotate
+# Dx Annotator Annotation Report
 
 ## Introduction
 
-This report summarises the progress of the annotation process on our annotation platform, [Dental Radiograph Collection Annotation and Prediction System](https://drcaps.surrey.ac.uk/) (DR CAPS). You can find the following information in this report:
+This report summarises the progress of the annotation process on our annotation platform, [Dx Annotator](http://uat.dxa.becertain.ai/). You can find the following information in this report:
 * Number of annotators.
 * Number of annotated/unannotated images.
 * Number of annotations.
@@ -15,14 +15,14 @@ This report summarises the progress of the annotation process on our annotation 
 
 ## Progress
 
-As of the date of the report, there are **11 annotators** who have contributed to the re-annotation process. These annotators have made **11,420 object-level annotations** and **1,858 image-level annotations** on **1325 dental X-rays**.
+As of the date of the report, there are **4 annotators** who have contributed to the re-annotation process. These annotators have made **1,892 object-level annotations** and **327 image-level annotations** on **250 dental X-rays**.
 
-Total number of uploaded images: 1325 (Belmont).
+Total number of uploaded images: 800 (400 Preston, 400 Bricketwood).
 
-**Retirement limit = 1:**
+**Retirement limit = 5:**
 
-- 1325 images from Belmont Dental Care that need to be re-annotated were uploaded to DR CAPS on 2024-10-29.
-- 513 images from Belmont Dental Care that need to be re-annotated were uploaded to DR CAPS on 2024-11-04.
+- 400 images from Preston were uploaded to DR CAPS on 2025-06-03.
+- 400 images from Bricketwood were uploaded to DR CAPS on 2025-06-03.
 
 The following line chart shows the total number of image-level annotations, the total number of object-level annotations, and the total number of annotated images, as of the date of the report:
 <h3 style="text-align: center;" markdown="1">Figure 1. History of the total number of image-level annotations, the total number of object-level annotation, and the total number of annotated images. 
@@ -54,19 +54,19 @@ Below is a histogram of the number of annotators per image.
 
 Statistics below are for the 1325 Belmont images and annotations:
 
-- 0 images were annotated by 0 annotators.
+- 550 images were annotated by 0 annotators.
 
-- 806 images were annotated by 1 annotators.
+- 177 images were annotated by 1 annotators.
 
-- 505 images were annotated by 2 annotators.
+- 69 images were annotated by 2 annotators.
 
-- 14 images were annotated by 3 annotators.
+- 4 images were annotated by 3 annotators.
 
 - 0 images were annotated by 4 annotators.
 
 - 0 images were annotated by 5 annotators.
 
-For retirement limit = 4 : we need  0*(4) + 806*(4-1) + 505*(4-2) + 14*(4-3) = **3442** image-level annotations to finish this round of annotation.
+For retirement limit = 4 : we need  550*(4) + 177*(4-1) + 69*(4-2) + 4*(4-3) = **2873** image-level annotations to finish this round of annotation.
 
 Click this [link](./History/2025_06_16/list_of_annotators_and_annotations.md) for the list of annotators, along with which annotator has annotated how many and which images, and their working efficiency.
 
