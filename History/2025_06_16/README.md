@@ -15,7 +15,7 @@ This report summarises the progress of the annotation process on our annotation 
 
 ## Progress
 
-As of the date of the report, there are **4 annotators** who have contributed to the re-annotation process. These annotators have made **1,892 object-level annotations** and **327 image-level annotations** on **250 dental X-rays**.
+As of the date of the report, there are **4 annotators** who have contributed to the annotation process. These annotators have made **1,892 object-level annotations** and **327 image-level annotations** on **250 dental X-rays**.
 
 Total number of uploaded images: 800 (400 Preston, 400 Bricketwood).
 
