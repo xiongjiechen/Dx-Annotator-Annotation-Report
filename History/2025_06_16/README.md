@@ -21,8 +21,8 @@ Total number of uploaded images: 800 (400 Preston, 400 Bricketwood).
 
 **Retirement limit = 5:**
 
-- 400 images from Preston were uploaded to DR CAPS on 2025-06-03.
-- 400 images from Bricketwood were uploaded to DR CAPS on 2025-06-03.
+- 400 images from Preston were uploaded to Dx Annotator on 2025-06-03.
+- 400 images from Bricketwood were uploaded to Dx Annotator on 2025-06-03.
 
 The following line chart shows the total number of image-level annotations, the total number of object-level annotations, and the total number of annotated images, as of the date of the report:
 <h3 style="text-align: center;" markdown="1">Figure 1. History of the total number of image-level annotations, the total number of object-level annotation, and the total number of annotated images. 
