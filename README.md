@@ -138,3 +138,60 @@ Histograms showing the distribution of the width and height of annotated images 
 ![title](./History/2025_07_15/Figures/histogram_image.jpg)
 
 Excel sheets showing the number of annotations and annotated images each annotator has contributed in each hour, and the total working hours in each day can be found in the [link](./History/2025_07_15/Excel_files/).
+
+Below is a list of annotators' object-level precision, recall, and F1 score after the calibration session, computed by using the updated model's annotations as the reference annotations. 
+
+<h3 style="text-align: center;" markdown="1">Table 2. List of annotators' object-level precision, recall, and F1 score computed with the updated model.</h3>
+
+|Annotator| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**2025/06/13 - 2025/06/19**|**No. images**| **No. annotations**| **No. model's annotations**| **Precision**| **Recall**| **F1 Score**|
+| Rena                  | 221   | 1304 | 1584 | 62.2   | 49.7   | 55.2  |
+| Triantafyllio         | 56    | 596  | 403  | 44.8   | 64.0   | 52.7  |
+| Woon San              | 185   | 1191 | 1375 | 57.2   | 46.7   | 51.4  |
+| Nicholas              | 17    | 109  | 115  | 46.8   | 47.0   | 46.9  |
+| Sagar                 | 89    | 495  | 612  | 51.7   | 41.3   | 45.9  |
+| Joshua                | 166   | 745  | 1230 | 48.5   | 32.3   | 38.7  |
+|**2025/06/20 - 2025/06/26**|**No. images**| **No. annotations**| **No. model's annotations**| **Precision**| **Recall**| **F1 Score**|
+| Triantafyllio         | 240   | 1941 | 1485 | 50.2   | 63.8   | 56.2  |
+| Deema                 | 249   | 2374 | 1644 | 46.9   | 65.0   | 54.5  |
+| Nicholas              | 47    | 337  | 332  | 53.7   | 53.3   | 53.5  |
+| Rena                  | 167   | 928  | 1080 | 55.6   | 47.6   | 51.3  |
+| Sagar                 | 83    | 565  | 569  | 48.0   | 45.7   | 46.8  |
+| Woon San              | 112   | 534  | 802  | 56.0   | 38.7   | 45.7  |
+| Joshua                | 101   | 376  | 699  | 43.9   | 26.5   | 33.0  |
+|**2025/06/27 - 2025/07/04**|**No. images**| **No. annotations**| **No. model's annotations**| **Precision**| **Recall**| **F1 Score**|
+| Triantafyllio         | 124   | 1056 | 774  | 49.1   | 65.1   | 56.0  |
+| Rena                  | 194   | 1077 | 1238 | 59.1   | 50.8   | 54.6  |
+| Emma                  | 72    | 692  | 556  | 48.7   | 53.2   | 50.9  |
+| Deema                 | 133   | 1396 | 829  | 41.4   | 65.4   | 50.7  |
+| Nicholas              | 80    | 556  | 589  | 50.2   | 44.8   | 47.3  |
+| Woon San              | 162   | 580  | 986  | 52.1   | 35.1   | 41.9  |
+| Joshua                | 144   | 411  | 969  | 50.6   | 25.7   | 34.1  |
+|**2025/07/05 - 2025/07/11**|**No. images**| **No. annotations**| **No. model's annotations**| **Precision**| **Recall**| **F1 Score**|
+| Triantafyllio         | 153   | 1228 | 892  | 44.1   | 61.1   | 51.3  |
+| Sagar                 | 109   | 657  | 712  | 53.6   | 48.3   | 50.8  |
+| Deema                 | 156   | 1605 | 949  | 40.4   | 65.2   | 49.9  |
+| Rena                  | 191   | 915  | 1102 | 55.1   | 45.3   | 49.7  |
+| Woon San              | 121   | 479  | 708  | 52.0   | 39.7   | 45.0  |
+| Joshua                | 106   | 344  | 623  | 53.5   | 33.7   | 41.4  |
+|**2025/07/12 - 2025/07/17**|**No. images**| **No. annotations**| **No. model's annotations**| **Precision**| **Recall**| **F1 Score**|
+| Sagar                 | 86    | 533  | 503  | 53.7   | 58.3   | 55.9  |
+| Triantafyllio         | 30    | 307  | 220  | 47.6   | 60.5   | 53.2  |
+| Deema                 | 40    | 416  | 214  | 37.0   | 67.3   | 47.8  |
+| Woon San              | 85    | 390  | 492  | 48.2   | 39.2   | 43.3  |
+| Joshua                | 54    | 171  | 318  | 43.3   | 25.2   | 31.8  |
+
+The figures below displays the precision, recall, and F1 scores for each annotator, along with their average and weighted average precision, recall, and F1 score. The average is calculated as the mean of the annotators’ performance metrics, while the weighted average takes into account the number of annotations made by each annotator.
+<h3 style="text-align: center;" markdown="1">Figure 13. History of annotators' precision.</h3>
+
+![title](./History/2025_07_15/Figures/Precision.jpg)
+
+<h3 style="text-align: center;" markdown="1">Figure 14. History of annotators' recall</h3>
+
+![title](./History/2025_07_15/Figures/Recall.jpg)
+
+<h3 style="text-align: center;" markdown="1">Figure 15. History of annotators' F1 score.</h3>
+
+![title](./History/2025_07_15/Figures/F1.jpg)
+
