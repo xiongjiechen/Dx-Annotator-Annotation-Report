@@ -15,7 +15,7 @@ This report summarises the progress of the annotation process on our annotation 
 
 ## Progress
 
-As of the date of the report, there are **4 annotators** who have contributed to the annotation process. These annotators have made **1,892 object-level annotations** and **327 image-level annotations** on **250 dental X-rays**.
+As of the date of the report, there are **8 annotators** who have contributed to the annotation process. These annotators have made **24,308 object-level annotations** and **3.773 image-level annotations** on **800 dental X-rays**.
 
 Total number of uploaded images: 800 (400 Preston, 400 Bricketwood).
 
@@ -54,19 +54,19 @@ Below is a histogram of the number of annotators per image.
 
 Statistics below are for the 1325 Belmont images and annotations:
 
-- 550 images were annotated by 0 annotators.
+- 0 images were annotated by 0 annotators.
 
-- 177 images were annotated by 1 annotators.
+- 0 images were annotated by 1 annotators.
 
-- 69 images were annotated by 2 annotators.
+- 0 images were annotated by 2 annotators.
 
-- 4 images were annotated by 3 annotators.
+- 37 images were annotated by 3 annotators.
 
-- 0 images were annotated by 4 annotators.
+- 153 images were annotated by 4 annotators.
 
-- 0 images were annotated by 5 annotators.
+- 610 images were annotated by 5 annotators.
 
-For retirement limit = 4 : we need  550*(4) + 177*(4-1) + 69*(4-2) + 4*(4-3) = **2873** image-level annotations to finish this round of annotation.
+For retirement limit = 5 : we need  0*(5) + 0*(5-1) + 0*(5-2) + 37*(5-3) + 153*(5-4)= **227** image-level annotations to finish this round of annotation.
 
 Click this [link](./History/2025_07_15/list_of_annotators_and_annotations.md) for the list of annotators, along with which annotator has annotated how many and which images, and their working efficiency.
 
@@ -100,26 +100,27 @@ Below is a list of annotation types and the number of annotations we have collec
 
 |Annotation type| Abbreviation| Number of annotations of the type|
 |:-:|:-:|:-:|
-| Bone Loss Stage 1: <15%                            | BL-1       | 270  |
-| Bone Loss Stage 2: Coronal Third                   | BL-2       | 466  |
-| Bone Loss Stage 3: Mid Third                       | BL-3       | 148  |
-| Bone Loss Stage 4: Apical Third                    | BL-4       | 29   |
-| Calculus                                           | Cal        | 247  |
-| Dental Caries Grade 1: Outer Enamel                | DC-1       | 57   |
-| Dental Caries Grade 2: Inner Enamel                | DC-2       | 42   |
-| Dental Caries Grade 3: Outer Dentin                | DC-3       | 123  |
-| Dental Caries Grade 4: Middle Dentin               | DC-4       | 84   |
-| Dental Caries Grade 5: Inner Dentin                | DC-5       | 146  |
-| External Resorption                                | ER         | 17   |
-| Healthy                                            | Healthy    | 55   |
-| Missing Coronal Restoration                        | MCR        | 7    |
-| Open Margin                                        | OM         | 35   |
-| Other                                              | Other      | 17   |
-| Overhang                                           | OH         | 67   |
-| Periapical Radiolucency                            | PR         | 52   |
-| Remaining Root                                     | RR         | 7    |
-| Restoration Radiolucency Adhesive/Liner            | RR (A/L)   | 15   |
-| Unsure                                             | Unsure     | 8    |
+| Bone Loss Stage 1: <15%                            | BL-1       | 5362 |
+| Bone Loss Stage 2: Coronal Third                   | BL-2       | 5166 |
+| Bone Loss Stage 3: Mid Third                       | BL-3       | 1340 |
+| Bone Loss Stage 4: Apical Third                    | BL-4       | 158  |
+| Calculus                                           | Cal        | 3600 |
+| Dental Caries Grade 1: Outer Enamel                | DC-1       | 494  |
+| Dental Caries Grade 2: Inner Enamel                | DC-2       | 571  |
+| Dental Caries Grade 3: Outer Dentin                | DC-3       | 1444 |
+| Dental Caries Grade 4: Middle Dentin               | DC-4       | 764  |
+| Dental Caries Grade 5: Inner Dentin                | DC-5       | 1141 |
+| External Resorption                                | ER         | 93   |
+| Healthy                                            | Healthy    | 510  |
+| Internal Resorption                                | IR         | 4    |
+| Missing Coronal Restoration                        | MCR        | 103  |
+| Open Margin                                        | OM         | 860  |
+| Other                                              | Other      | 499  |
+| Overhang                                           | OH         | 775  |
+| Periapical Radiolucency                            | PR         | 445  |
+| Remaining Root                                     | RR         | 103  |
+| Restoration Radiolucency Adhesive/Liner            | RR (A/L)   | 724  |
+| Unsure                                             | Unsure     | 152  |
 
 A bar chart showing the number of annotated objects in each annotation type can be found below:
 <h3 style="text-align: center;" markdown="1">Figure 10. The number of annotations for each annotation type.</h3>
