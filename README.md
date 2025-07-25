@@ -31,26 +31,26 @@ The following line chart shows the total number of image-level annotations, the 
 - "Object-level" means every bounding box is counted as one object-level annotation.
 - The quantity "Total number of annotated images" is the number of non-identical images that has been annotated at least once. </h3>
 
-![](./History/2025_07_15/Figures/img_ann_history.jpg)
+![](./History/2025_07_25/Figures/img_ann_history.jpg)
 
 The following line chart shows the overall efficiency of annotators in each annotation session, image-level and object-level, along with the number of object-level annotations per image-level annotation:
 <h3 style="text-align: center;" markdown="1">Figure 2. History of the overall hourly efficiency (image-level and object-level) of annotators, and the number of object-level annotations per image-level annotation.</h3>
 
-![](./History/2025_07_15/Figures/img_ann_average_efficiency_history.jpg)
+![](./History/2025_07_25/Figures/img_ann_average_efficiency_history.jpg)
 
 The following line chart shows the number of image-level annotations and the number of object-level annotations we collected each day, along with the total working hours of annotators each day:
 <h3 style="text-align: center;" markdown="1">Figure 3. History of the number of collected image-level annotations, the number of collected object-level annotations, and working hours of annotators each day.</h3>
 
-![](./History/2025_07_15/Figures/img_ann_number_each_day.jpg)
+![](./History/2025_07_25/Figures/img_ann_number_each_day.jpg)
 
 
-Click this [link](./History/2025_07_15/list_of_annotated_images.md) for the list of annotated images, along with which images were annotated by how many and which annotators.</summary>
+Click this [link](./History/2025_07_25/list_of_annotated_images.md) for the list of annotated images, along with which images were annotated by how many and which annotators.</summary>
 
 Below is a histogram of the number of annotators per image.
 
 <h3 style="text-align: center;" markdown="1">Figure 4. Histogram of the number of annotators per image.</h3>
 
-![](./History/2025_07_15/Figures/Histogram.jpg)
+![](./History/2025_07_25/Figures/Histogram.jpg)
 
 Statistics below are for the 1325 Belmont images and annotations:
 
@@ -68,32 +68,32 @@ Statistics below are for the 1325 Belmont images and annotations:
 
 For retirement limit = 5 : we need  0*(5) + 0*(5-1) + 0*(5-2) + 37*(5-3) + 153*(5-4)= **227** image-level annotations to finish this round of annotation.
 
-Click this [link](./History/2025_07_15/list_of_annotators_and_annotations.md) for the list of annotators, along with which annotator has annotated how many and which images, and their working efficiency.
+Click this [link](./History/2025_07_25/list_of_annotators_and_annotations.md) for the list of annotators, along with which annotator has annotated how many and which images, and their working efficiency.
 
 Below is a pie chart showing the number of image-level annotations each annotator has contributed.
 <h3 style="text-align: center;" markdown="1">Figure 5. The number and percentage of image-level annotations each annotator has contributed</h3>
 
-![title](./History/2025_07_15/Figures/pie_chart_n_images.jpg)
+![title](./History/2025_07_25/Figures/pie_chart_n_images.jpg)
 
 Below is a pie chart showing the number of object-level annotations each annotator has contributed.
 <h3 style="text-align: center;" markdown="1">Figure 6. The number and percentage of object-level annotations each annotator has contributed.</h3>
 
-![title](./History/2025_07_15/Figures/pie_chart_n_annotations.jpg)
+![title](./History/2025_07_25/Figures/pie_chart_n_annotations.jpg)
 
 The following bar chart compares the efficiency of different annotators, object-level and image-level.
 <h3 style="text-align: center;" markdown="1">Figure 7. Comparison of the efficiency of different annotators.</h3>
 
-![title](./History/2025_07_15/Figures/bar_efficiency_images_annotations.jpg)
+![title](./History/2025_07_25/Figures/bar_efficiency_images_annotations.jpg)
 
 The image-level efficiency of annotators can be found in the following line chart:
 <h3 style="text-align: center;" markdown="1">Figure 8. History of image-level efficiency of different annotators.</h3>
 
-![title](./History/2025_07_15/Figures/Imgs_Efficiency_History.jpg)
+![title](./History/2025_07_25/Figures/Imgs_Efficiency_History.jpg)
 
 The object-level efficiency of annotators can be found in the following line chart:
 <h3 style="text-align: center;" markdown="1">Figure 9. History of object-level efficiency of different annotators.</h3>
 
-![title](./History/2025_07_15/Figures/Annotations_Efficiency_History.jpg)
+![title](./History/2025_07_25/Figures/Annotations_Efficiency_History.jpg)
 
 Below is a list of annotation types and the number of annotations we have collected for each annotation type.
 <h3 style="text-align: center;" markdown="1">Table 1. List of annotation types and the number of annotations for each type, sorted alphabetically.</h3>
@@ -125,19 +125,19 @@ Below is a list of annotation types and the number of annotations we have collec
 A bar chart showing the number of annotated objects in each annotation type can be found below:
 <h3 style="text-align: center;" markdown="1">Figure 10. The number of annotations for each annotation type.</h3>
 
-![title](./History/2025_07_15/Figures/Bar_type_annotation.jpg)
+![title](./History/2025_07_25/Figures/Bar_type_annotation.jpg)
 
 Histograms showing the distribution of the width and height of bounding boxes are as follows: 
 <h3 style="text-align: center;" markdown="1">Figure 11. The histogram of the height and width of bounding boxes.</h3>
 
-![title](./History/2025_07_15/Figures/Histogram_bbox.jpg)
+![title](./History/2025_07_25/Figures/Histogram_bbox.jpg)
 
 Histograms showing the distribution of the width and height of annotated images are as follows: 
 <h3 style="text-align: center;" markdown="1">Figure 12. The histogram of the height and width of annotated images.</h3>
 
-![title](./History/2025_07_15/Figures/histogram_image.jpg)
+![title](./History/2025_07_25/Figures/histogram_image.jpg)
 
-Excel sheets showing the number of annotations and annotated images each annotator has contributed in each hour, and the total working hours in each day can be found in the [link](./History/2025_07_15/Excel_files/).
+Excel sheets showing the number of annotations and annotated images each annotator has contributed in each hour, and the total working hours in each day can be found in the [link](./History/2025_07_25/Excel_files/).
 
 Below is a list of annotators' object-level precision, recall, and F1 score after the calibration session, computed by using the updated model's annotations as the reference annotations. 
 
@@ -185,13 +185,13 @@ Below is a list of annotators' object-level precision, recall, and F1 score afte
 The figures below displays the precision, recall, and F1 scores for each annotator, along with their average and weighted average precision, recall, and F1 score. The average is calculated as the mean of the annotators’ performance metrics, while the weighted average takes into account the number of annotations made by each annotator.
 <h3 style="text-align: center;" markdown="1">Figure 13. History of annotators' precision.</h3>
 
-![title](./History/2025_07_15/Figures/Precision.jpg)
+![title](./History/2025_07_25/Figures/Precision.jpg)
 
 <h3 style="text-align: center;" markdown="1">Figure 14. History of annotators' recall</h3>
 
-![title](./History/2025_07_15/Figures/Recall.jpg)
+![title](./History/2025_07_25/Figures/Recall.jpg)
 
 <h3 style="text-align: center;" markdown="1">Figure 15. History of annotators' F1 score.</h3>
 
-![title](./History/2025_07_15/Figures/F1.jpg)
+![title](./History/2025_07_25/Figures/F1.jpg)
 
